@@ -1,5 +1,5 @@
 # descrptionsGenerator
-
+```
 // {
 //   config: {
 //     label: { sx: { color: theme.palette.greyTwo['600'] } },
@@ -148,3 +148,4 @@
 //     }
 //   ]
 // };
+```
